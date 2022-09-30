@@ -4,12 +4,12 @@
 <!-- para pegar o link do seu icone de perfil, vá no seu perfil do github > botão direito na sua foto > abrir imagem em nova guia > copia a url -->
 
 <a href="https://github.com/LinkDoSeuGithub">
-    <img src="https://avatars.githubusercontent.com/u/100722316?v=4" width="150px;"/>
+    <img src="Link foto Github" width="150px;"/>
     <br>
-    <sub><b>Felipe Fuckner Clariano</b></sub>
+    <sub><b>Seu nome</b></sub>
 </a>
  
 Entre em contato! 💌
  
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Fuckner-blue?style=flat-square&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/felipe-fuckner-b65a49237) 
-[![Gmail Badge](https://img.shields.io/badge/-felipefclariano04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:felipefclariano04@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Seu_Nome-blue?style=flat-square&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/LinkDoSeuLinkedin) 
+[![Gmail](https://img.shields.io/badge/-Seu_email_aqui-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:SeuEmail@gmail.com)

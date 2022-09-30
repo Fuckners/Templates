@@ -1,11 +1,28 @@
 ![Banner]()	
-Subtítulo	
+Subtítulo _(opcional)_	
 
-#### Título principal	
+<h1 align="center">Título Principal</h1>
 Descrição do projeto	
 
 ## ⭐ Status do projeto ⭐
 
+## Sumário:    
+- [Tencologias usadas](#tencologias-usadas)
+- [Funcionalidades](#funcionalidades)
+	- [Principais funcionalidades](#principais-funcionalidades)
+	- [Possiveis adições futuras _(opcional)_](#possiveis-adições-futuras-opcional)
+- [Páginas](#páginas)
+- [Tópico 01](#tópico-01)
+	- [Subtópico 01](#subtópico-01)
+		- [Sub sub tópico](#sub-sub-tópico)
+	- [Subtópico 02](#subtópico-02)
+	- [Conclusão](#conclusão)
+- [Instalação](#instalação)
+	- [Pré-requisitos](#pré-requisitos)
+		- [Rodando o projeto](#rodando-o-projeto)
+	- [Autor](#autor)
+
+<span id="tencologias-usadas"> </span>
 ## Tencologias usadas 👾
 <div align='center'>
 	<img alt="socket.io" src="https://img.shields.io/badge/socket.io-v^4.5.1-%23ff4e89?style=flat-square">
@@ -25,24 +42,6 @@ Descrição do projeto
 - Javascript
 - MySQL
 - WebSocket
-
-## Sumário:    
-- [⭐ Status do projeto ⭐](#-status-do-projeto-)
-- [Tencologias usadas 👾](#tencologias-usadas-)
-- [Sumário:](#sumário)
-- [Funcionalidades 📌](#funcionalidades-)
-	- [Principais funcionalidades](#principais-funcionalidades)
-	- [Possiveis adições futuras _(opcional)_](#possiveis-adições-futuras-opcional)
-- [Páginas 🚢](#páginas-)
-- [Tópico 01](#tópico-01)
-	- [Subtópico 01 🐱‍💻](#subtópico-01-)
-		- [Sub sub tópico](#sub-sub-tópico)
-	- [Subtópico 02](#subtópico-02)
-	- [Conclusão](#conclusão)
-- [Instalação](#instalação)
-	- [Pré-requisitos](#pré-requisitos)
-		- [Rodando o projeto](#rodando-o-projeto)
-	- [Autor](#autor)
 
 <span id="funcionalidades"></span>
 ## Funcionalidades 📌

@@ -31,18 +31,18 @@ Descrição do projeto
 - [Tencologias usadas 👾](#tencologias-usadas-)
 - [Sumário:](#sumário)
 - [Funcionalidades 📌](#funcionalidades-)
-  - [Principais funcionalidades](#principais-funcionalidades)
-  - [Possiveis adições futuras _(opcional)_](#possiveis-adições-futuras-opcional)
+	- [Principais funcionalidades](#principais-funcionalidades)
+	- [Possiveis adições futuras _(opcional)_](#possiveis-adições-futuras-opcional)
 - [Páginas 🚢](#páginas-)
 - [Tópico 01](#tópico-01)
-  - [Subtópico 01 🐱‍💻](#subtópico-01-)
-    - [Sub sub tópico](#sub-sub-tópico)
-  - [Subtópico 02](#subtópico-02)
-  - [Conclusão](#conclusão)
+	- [Subtópico 01 🐱‍💻](#subtópico-01-)
+		- [Sub sub tópico](#sub-sub-tópico)
+	- [Subtópico 02](#subtópico-02)
+	- [Conclusão](#conclusão)
 - [Instalação](#instalação)
-  - [Pré-requisitos](#pré-requisitos)
-    - [Rodando o projeto](#rodando-o-projeto)
-  - [Autor](#autor)
+	- [Pré-requisitos](#pré-requisitos)
+		- [Rodando o projeto](#rodando-o-projeto)
+	- [Autor](#autor)
 
 <span id="funcionalidades"></span>
 ## Funcionalidades 📌
@@ -134,7 +134,6 @@ $ node server.js
 
 <span id="contact"> </span>
 ### Autor
-_para pegar o link do seu icone de perfil, vá no seu perfil do github > botão direito na sua foto > abrir imagem em nova guia > copia a url_
 <a href="https://github.com/Fuckners/Fuckners">
  <img src="https://avatars.githubusercontent.com/u/100722316?v=4" width="150px;"/>
  <br>
